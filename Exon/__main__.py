@@ -719,7 +719,7 @@ def main():
 ㅤ🥀 {dispatcher.bot.first_name} ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ ✨ .....
 
 ━━━━━━━━━━━━━
-⍟ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/{OWNER_USERNAME})
+⍟ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/{matna_setha})
 ⍟ **ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{lver}`
 ⍟ **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{tver}`
 ⍟ **ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ :** `{pver}`
