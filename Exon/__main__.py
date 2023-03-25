@@ -714,7 +714,7 @@ def main():
         try:
             dispatcher.bot.sendAnimation(
                 f"@{SUPPORT_CHAT}",
-                animation="https://telegra.ph/file/8dea393ddf4fc2e339179.gif",
+                animation="https://telegra.ph/file/8f2efe977309713a4c015.png",
                 caption=f"""
 ㅤ🥀 {dispatcher.bot.first_name} ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ ✨ .....
 
